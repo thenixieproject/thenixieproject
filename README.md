@@ -11,3 +11,7 @@ JetBrains CLion, Git, C++, HTML, CSS, Github
 - 📫 How to reach me: thenixieproject on instagram, or lilmcfarlands@gmail.com for email
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: I began learning how to code at age 11. My first language was Java and most of my time was spent identifying bugs in Minecraft mods.
+
+### GitHub Stats (because I think functionality is cool!):
+![thenixieproject's Stats](https://github-readme-stats.vercel.app/api?username=thenixieproject&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![thenixieproject's Streak](https://github-readme-streak-stats.herokuapp.com/?user=thenixieproject&theme=vue-dark&hide_border=true)
