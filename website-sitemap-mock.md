@@ -1,14 +1,14 @@
-Homepage
+### Homepage
 - Contact Footer
-About Me
+### About Me
 - GitHub Profile
 - Social Media Links
-Discord Bot
+### Discord Bot
 - README file
 - Problems encountered
 - Solutions found
 - Impact on community
-Console Casino
+### Console Casino
 - README file
 - Problems encountered
 - Solutions found
