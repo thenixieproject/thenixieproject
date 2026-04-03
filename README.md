@@ -4,9 +4,9 @@ My name is Quinn McFarland (they/them). I am a student currently at Palomar Coll
 My interest lies mainly in game development, however I am learning a wide variety of languages and skills to create a diverse skillset that can provide beneficial throughout the entire technology industry.
 
 ### Tools:
-[![My Tools and Languages](https://skillicons.dev/icons?i=js,html,css,cpp,git,java)](https://skillicons.dev)
+[![My Tools and Languages](https://skillicons.dev/icons?i=js,html,css,cpp,git,java,python)](https://skillicons.dev)
 
-- 🔭 I’m currently working on a Discord bot for the New Pilots Initiative community in Elite: Dangerous.
+- 🔭 I’m currently working on a Discord bot for the New Pilots Initiative community in Elite: Dangerous and plan to participate in IMC Prosperity.
 - 🌱 I’m currently learning Javascript, node.js, and discord.js
 - 📫 How to reach me: thenixieproject on instagram, or lilmcfarlands@gmail.com for email
 - 😄 Pronouns: they/them
