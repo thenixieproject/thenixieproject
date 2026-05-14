@@ -4,7 +4,7 @@ My name is Quinn McFarland (they/them). I am a student currently at Palomar Coll
 My interest lies mainly in game development, however I am learning a wide variety of languages and skills to create a diverse skillset that can provide beneficial throughout the entire technology industry.
 
 ### Tools:
-[![My Tools and Languages](https://skillicons.dev/icons?i=cpp,cs,html,css,java,js,lua,py,git,rust)](https://skillicons.dev)
+[![My Tools and Languages](https://skillicons.dev/icons?i=cpp,html,css,java,js,git)](https://skillicons.dev)
 
 - 🔭 I’m currently working on a Discord bot for the New Pilots Initiative community in Elite: Dangerous.
 - 🌱 I’m currently learning Javascript, node.js, discord.js, and C#
