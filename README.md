@@ -6,7 +6,7 @@ My interest lies mainly in game development, however I am learning a wide variet
 ### Tools:
 [![My Tools and Languages](https://skillicons.dev/icons?i=cpp,html,css,java,js,git)](https://skillicons.dev)
 
-- 🔭 I’m currently working on a Discord bot for the New Pilots Initiative community in Elite: Dangerous.
+- 🔭 I’m currently working on refactoring a text-based C++ game with object-oriented code.
 - 🌱 I’m currently taking a break from learning to prepare for the Fall semester.
 - 📫 How to reach me: thenixieproject on Instagram, or lilmcfarlands@gmail.com for email
 - 😄 Pronouns: they/them
