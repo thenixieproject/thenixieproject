@@ -3,11 +3,10 @@
 ### About Me
 - GitHub Profile
 - Social Media Links
-### Discord Bot
+### C Project (unnamed)
 - README file
 - Problems encountered
-- Solutions found
-- Impact on community
+- Solutions Found
 ### Console Casino
 - README file
 - Problems encountered
