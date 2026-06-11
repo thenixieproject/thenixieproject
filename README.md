@@ -6,7 +6,7 @@ My interest lies mainly in game development, however I am learning a wide variet
 ### Tools:
 [![My Tools and Languages](https://skillicons.dev/icons?i=c,cpp,html,css,java,js,git)](https://skillicons.dev)
 
-- 🔭 I'm currently exploring making contributions to open-source projects.
+- 🔭 I'm currently importing old projects into GitHub.
 - 🌱 I am currently taking a breka from learning to prepare for OOP Java in the Fall.
 - 📫 How to reach me: thenixieproject on Instagram, or lilmcfarlands@gmail.com for email
 - 😄 Pronouns: they/them
