@@ -4,7 +4,7 @@ My name is Quinn McFarland (they/them). I am a student currently at Palomar Coll
 My interest lies mainly in game development, however I am learning a wide variety of languages and skills to create a diverse skill set that can provide beneficial throughout the entire technology industry.
 
 ### Tools:
-[![My Tools and Languages](https://skillicons.dev/icons?i=c,cpp,html,css,java,js,git)](https://skillicons.dev)
+[![My Tools and Languages](https://skillicons.dev/icons?i=c,cpp,html,css,java,js,git,github,figma,qt,markdown,notion,clion,webstorm)](https://skillicons.dev)
 
 - 🔭 I'm currently importing old projects into GitHub.
 - 🌱 I am currently taking a breka from learning to prepare for OOP Java in the Fall.
