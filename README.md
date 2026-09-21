@@ -6,8 +6,8 @@ My interest lies mainly in game development, however I am learning a wide variet
 ### Tools:
 [![My Tools and Languages](https://skillicons.dev/icons?i=c,cpp,html,css,java,js,git,github,figma,qt,markdown,notion,clion,webstorm)](https://skillicons.dev)
 
-- 🔭 I'm currently building an open-source personal finance/budgeting app.
-- 🌱 I am currently learning the Qt Framework.
+- 🔭 I'm currently building
+- 🌱 I am currently learning
 - 📫 How to reach me: thenixieproject on Instagram, or lilmcfarlands@gmail.com for email
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: I began learning how to code at age 11. My first language was Java and most of my time was spent identifying bugs in Minecraft mods.
