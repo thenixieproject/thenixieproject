@@ -7,7 +7,7 @@
   - Tile Based Grid
 ### Year 2
 - OOP C++
-  - Finite State Machine AI (C++)
+  - Personal Information Processor (C++)
 - Machine Architecture - Assembly
 ### Year 3
 ### Year 4
